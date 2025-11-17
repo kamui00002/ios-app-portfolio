@@ -7,6 +7,15 @@
 今必要としているAIの機能や、調べたAIにどんな機能があるかを検索できるアプリです。
 AIツールの選択に迷ったときに、目的から最適なAIを見つけることができます。
 
+## スクリーンショット
+
+<p align="center">
+  <img src="../images:ai-compass:screenshot1.png" width="200" alt="ホーム画面">
+  <img src="../images:ai-compass:screenshot2.png" width="200" alt="やりたいことから探す">
+  <img src="../images:ai-compass:screenshot3.png" width="200" alt="AI診断">
+  <img src="../images:ai-compass:screenshot4.png" width="200" alt="AI一覧">
+</p>
+
 ## 主な機能
 
 ### 🔍 AI検索機能
