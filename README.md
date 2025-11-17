@@ -22,6 +22,8 @@ Claude・Cursorなどの最新AI開発ツールも積極的に取り入れ、
 #### 1. AI-compass
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/jp/app/id6753145777)
 
+<img src="./images:ai-compass:screenshot1.png" width="250" alt="AI-compass スクリーンショット">
+
 今必要としているAIの機能や調べたAIにどんな機能があるかを検索できるアプリです。
 「やりたいことからAIを探す」機能や、選択肢で探せる「AI診断」機能も搭載しています。
 
