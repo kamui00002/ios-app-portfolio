@@ -41,6 +41,8 @@ Claude・Cursorなどの最新AI開発ツールも積極的に取り入れ、
 #### 2. ことばのたまご
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/jp/app/id6754462721)
 
+<img src="./images:kotoba-no-tamago:screenshot1.png" width="250" alt="ことばのたまご スクリーンショット">
+
 自分の性格（MBTI）タイプに合わせたキャラクターを育てながら英単語を学べるアプリです。
 卵からキャラクターが孵化し、学習するほど成長します。MBTI診断×語彙学習の新しいアプリです。
 
