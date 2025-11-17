@@ -13,16 +13,16 @@
 ## スクリーンショット
 
 <p align="center">
-  <img src="../images:kotoba-no-tamago:screenshot1.png" width="180" alt="卵の画面">
-  <img src="../images:kotoba-no-tamago:screenshot2.png" width="180" alt="キャラクター画面">
-  <img src="../images:kotoba-no-tamago:screenshot3.png" width="180" alt="MBTI診断">
-  <img src="../images:kotoba-no-tamago:screenshot4.png" width="180" alt="統計画面">
+  <img src="../images:kotobanotamago:kotobanotamago.png" width="180" alt="卵の画面">
+  <img src="../images:kotobanotamago:kotobanotamago2.png" width="180" alt="キャラクター画面">
+  <img src="../images:kotobanotamago:kotobanotamago3.png" width="180" alt="MBTI診断">
+  <img src="../images:kotobanotamago:kotobanotamago4.png" width="180" alt="統計画面">
 </p>
 
 <p align="center">
-  <img src="../images:kotoba-no-tamago:screenshot5.png" width="180" alt="メニュー画面">
-  <img src="../images:kotoba-no-tamago:screenshot6.png" width="180" alt="学習画面">
-  <img src="../images:kotoba-no-tamago:screenshot7.png" width="180" alt="育成画面">
+  <img src="../images:kotobanotamago:kotobanotamago5.png" width="180" alt="メニュー画面">
+  <img src="../images:kotobanotamago:kotobanotamago6.png" width="180" alt="学習画面">
+  <img src="../images:kotobanotamago:kotobanotamago7.png" width="180" alt="育成画面">
 </p>
 
 ## 主な機能
