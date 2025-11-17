@@ -63,6 +63,8 @@ Claude・Cursorなどの最新AI開発ツールも積極的に取り入れ、
 #### 3. ParkPedia
 🔄 **現在の状況**: App Store審査中
 
+<img src="./images:parkpedia:screenshot1.png" width="250" alt="ParkPedia スクリーンショット">
+
 日本中の人がレビューや写真を投稿し、みんなでおすすめの公園情報を集めて完成させるコミュニティ型アプリです。
 
 - **使用技術**: React Native、Firebase
