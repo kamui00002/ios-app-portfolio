@@ -13,10 +13,10 @@
 ## スクリーンショット
 
 <p align="center">
-  <img src="../images:parkpedia:screenshot1.png" width="200" alt="公園一覧画面">
-  <img src="../images:parkpedia:screenshot2.png" width="200" alt="公園詳細画面">
-  <img src="../images:parkpedia:screenshot3.png" width="200" alt="レビュー画面">
-  <img src="../images:parkpedia:screenshot4.png" width="200" alt="投稿画面">
+  <img src="../ParkPedia1.png" width="200" alt="公園一覧画面">
+  <img src="../ParkPedia2.png" width="200" alt="公園詳細画面">
+  <img src="../ParkPedia3.png" width="200" alt="レビュー画面">
+  <img src="../ParkPedia4.png" width="200" alt="投稿画面">
 </p>
 
 ## 主な機能（予定）
